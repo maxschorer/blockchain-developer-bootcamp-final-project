@@ -25,12 +25,13 @@
 
 Similar to CryptoPunks, for the first release, I'd keep it simple and let anybody grab a token and then people can trade/resell from there.  One caveat is I'd intend to limit each address to only own state.  Ex: if a user already has a California quarter but they want another one, their only option would be to swap for another California quarter or sell their current one before buying another.  They couldn't own more than one.
 
-<h2>User Journey</h2>
-- go to website
-- if wallet connected, can see their current "map"/collection
-<h3>Partaking in IQO (Initial Quarter Offering)</h3>
-- to start, keep it simple
-<h3>Buying/Selling Taken Tokens</h3>
-<h3>Viewing Their Collection</h3>
-<h3>Future Releases</h3>
-<h3>QuarterDAO</h3>
+<h2> ToDos </h2>
+<ul>
+  <li>What will home page be?</li>
+  <li>How to show NFTs users own in a single map UI?</li>
+  <li>Can I code up to have 1-2% of all future resales of NFT go to root address?</li>
+  <li>How will IQOs (Initial Quarter Offerings) work?</li>
+  <li>Can let user create an NFT of all their quarters once they complete the set?</li>
+  <li>Can incorporate a DAO of any user who has an NFT?  Allow for weighted votes based on number of quarters and/or value of them?</li>
+  <li>Create competition for future releases?  Let users vote on it, winning artist gets one of the diamond NFTs?</li>
+</ul>
