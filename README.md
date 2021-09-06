@@ -23,7 +23,14 @@
 <li>Serial Number</li>
 </ol>
 
-Similar to CryptoPunks, for the first release, I'd keep it simple and let anybody grab a token and then people can trade/resell from there.  One caveat is I'd intend to limit each address to only own state.  Ex: if a user already has a 
+Similar to CryptoPunks, for the first release, I'd keep it simple and let anybody grab a token and then people can trade/resell from there.  One caveat is I'd intend to limit each address to only own state.  Ex: if a user already has a California quarter but they want another one, their only option would be to swap for another California quarter or sell their current one before buying another.  They couldn't own more than one.
 
-<h2></h2>
-After releasing the first state, I'd release the remaining 49 states on a fixed cadence (ex: weekly, Monday and Friday)
+<h2>User Journey</h2>
+- go to website
+- if wallet connected, can see their current "map"/collection
+<h3>Partaking in IQO (Initial Quarter Offering)</h3>
+- to start, keep it simple
+<h3>Buying/Selling Taken Tokens</h3>
+<h3>Viewing Their Collection</h3>
+<h3>Future Releases</h3>
+<h3>QuarterDAO</h3>
