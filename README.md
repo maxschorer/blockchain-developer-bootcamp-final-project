@@ -15,7 +15,9 @@
 </ul>   
 
 <p>Except for the colored tier, the design would be identical for each quarter except for a serial number.  For example, assuming I used the current California quarter design (note: I don't like the California quarter design, so I'm hoping somebody on 99Designs can make something better), this is what Diamond 7 would look like.</p>
-(image)
+
+![California_sample](https://user-images.githubusercontent.com/2104174/132264293-14c222a9-bdbe-4208-a831-3b9e6c56e32a.jpg)
+
 <p>In other words, each NFT would have the following three properties:</p>
 <ol>
 <li>US State</li>
