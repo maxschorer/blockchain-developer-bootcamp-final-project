@@ -2,7 +2,7 @@
 <h2>Summary</h2>
 <p>In the late 1990s, the US mint started a program where they released limited editions quarters for all 50 states (https://www.usmint.gov/learn/kids/about-the-mint/50-state-quarters) over the next decade.  They also released a cardboard map of the United States that could hold all 50 quarters, and my family steadily collected these quarters over time until we got all 50.</p>
 
-<p>I'd like to build the NFT version of that.  But instead of releasing 400M-1.6B of each state (https://en.wikipedia.org/wiki/50_State_quarters), I'd release significantly less.</p>
+<p>I'd like to build the NFT version of that.  But instead of releasing 400M-1.6B of each state (https://en.wikipedia.org/wiki/50_State_quarters), I'd release a fixed number.</p>
 
 <h2>Initial Release</h2>
 <p>First, I'll start with one state, probably California since it has the highest crypto adoption and it's where I live.  I'd mint exactly 11,111 California quarters with the following tiers:</p>
